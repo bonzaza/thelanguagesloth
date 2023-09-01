@@ -4,4 +4,4 @@ This is a repository with code examples from the programming classes on `The Lan
 The materials in the repository will be updated as classes are held.
 
 Past classes:
-- First class (22.08.2023). The material are in the [Class 1](Class%201) folder.
+- First class (22.08.2023). The materials are in the [Class 1](Class%201) folder.
