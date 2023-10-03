@@ -1,0 +1,9 @@
+{
+    "name": "examples/strategy",
+    "autoload": {
+        "psr-4": {
+            "Examples\\Strategy\\": "src/"
+        }
+    },
+    "require": {}
+}

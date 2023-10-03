@@ -8,7 +8,8 @@ Past classes:
 - Second class (01.09.2023). The materials are in the [Class_2](Class_2) folder.
 - Third class (05.09.2023). The materials are in the [Class_3](Class_3) folder.
 - Fourth class (12.09.2023). The materials are in the [Class_4](Class_4) folder.
-- Fifth class (19.09.2023). The materials are in the [Class_5](Class_5) folder. 
+- Fifth class (19.09.2023). The materials are in the [Class_5](Class_5) folder.
+- Sixth class (03.10.2023). The materials are in the [Class_6](Class_6) folder.
 
 
 ## License
