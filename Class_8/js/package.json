@@ -1,0 +1,6 @@
+{
+    "license": "MIT",
+    "scripts": {
+        "test": "jest --colors"
+    }
+}
