@@ -1,0 +1,9 @@
+{
+    "license": "MIT",
+    "scripts": {
+        "test": "jest --colors"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
