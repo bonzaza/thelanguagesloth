@@ -2,7 +2,9 @@
 .vscode/
 build/
 vendor/
+node_modules/
 .phpunit.result.cache
 .php_cs
 composer.lock
+package-lock.json
 phpunit.xml
